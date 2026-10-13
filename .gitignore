@@ -1,0 +1,21 @@
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы и IDE
+.idea/
+.vscode/
+*.swp
+*.sublime-workspace
+
+# Логи и локальные настройки
+*.log
+.env
+.env.local
+
+# Зависимости (если появятся)
+node_modules/
+
+# Локальные ассеты: дублируется в docs/board.png (для README)
+/первый вид.png
